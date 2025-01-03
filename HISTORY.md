@@ -1,8 +1,18 @@
 Release History
 ===============
 
-master
-------
+1.0.1 (2025-01-03)
+------------------
+
+* Fix pypdf import.
+
+1.0.0 (2025-01-03)
+------------------
+
+* Fix deprecated camelot methods.
+
+0.4.4 (2024-12-25)
+------------------
 
 * Add GitHub Action for automated Linux, MacOS and Windows builds. [#107](https://github.com/camelot-dev/excalibur/pull/107) by [arky](https://github.com/arky).
 
